@@ -5,6 +5,7 @@
 🚀 Atualmente desenvolvendo projetos de front-end  
 
 ## 📌 Projetos em destaque
+- Controle Finaceiro (HTML + CSS + JS)
 - Tela de Login Netflix (HTML + CSS)
 
 ## 📫 Onde me encontrar
