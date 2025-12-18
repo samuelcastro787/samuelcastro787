@@ -89,7 +89,7 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 - [Netflix Login](https://github.com/samuelcastro787/netflix-login)
 - [Controle Financeiro](https://github.com/samuelcastro787/controle-financeiro)
-- [Previsao do Tempo](https://github.com/samuelcastro787/previsao-do-tempo)
+- [Previsao do Tempo](https://github.com/samuelcastro787/weather)
 
 ---
 
