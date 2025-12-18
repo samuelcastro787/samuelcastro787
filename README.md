@@ -6,6 +6,13 @@ Sou estudante de ADS e estou me especializando em desenvolvimento web.
 Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 <p align="left">
+    <a href="mailto:samuelcastrosc787@gmail.com/">
+        <img 
+            alt="Gmail" 
+            title="Gmail" 
+            src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:samuelcastrosc787@gmail.com"
+        />
+    </a>
     <a href="https://linkedin.com/in/samuel-castro-06a0701a4/">
         <img 
             alt="Linkedin" 
