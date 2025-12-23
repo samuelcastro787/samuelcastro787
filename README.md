@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Sou estudante de ADS e estou me especializando em desenvolvimento web.  
+Sou estudante de ADS e estou me especializando em desenvolvimento front-end.  
 Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 <p align="left">
