@@ -17,7 +17,7 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
         <img 
             alt="Linkedin" 
             title="Perfil do Linkedin" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-castro-06a0701a4/"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelcastro787/"
         />
     </a>
 </p>
