@@ -1,6 +1,6 @@
 # Olá, eu sou o Samuel 👋
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full Stack`**
 
 Sou estudante de ADS e estou me especializando em desenvolvimento full stack.  
 Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
@@ -49,14 +49,6 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
