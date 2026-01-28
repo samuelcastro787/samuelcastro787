@@ -93,7 +93,7 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
     title="Github"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" 
 />
 
 <br/>
