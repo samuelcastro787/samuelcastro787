@@ -53,6 +53,7 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <br/>
 
 ### Back-End
@@ -73,6 +74,8 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" 
 />
+
+<br/>
 
 ### DevOps & Tools
 
