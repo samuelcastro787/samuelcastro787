@@ -48,6 +48,14 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" 
 />
 <img 
