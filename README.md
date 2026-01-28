@@ -24,7 +24,7 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Tech Stack
 
 ### Front-End
 
