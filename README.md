@@ -53,7 +53,7 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
+<br/>
 
 ### Back-End
 
