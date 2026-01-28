@@ -48,7 +48,7 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet" 
+    src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" 
 />
 <img 
     align="left" 
