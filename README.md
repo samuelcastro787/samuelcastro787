@@ -44,6 +44,14 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 />
 <img 
     align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
