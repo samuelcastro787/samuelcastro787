@@ -1,6 +1,6 @@
 # Olá, eu sou o Samuel 👋
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Back-End`**
 
 Sou estudante de ADS e estou me especializando em desenvolvimento back-end.  
 Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
