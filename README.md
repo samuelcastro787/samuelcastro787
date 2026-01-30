@@ -26,8 +26,6 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 ## 🤖 Tech Stack
 
-### Front-End
-
 <img 
     align="left" 
     alt="HTML"
@@ -54,10 +52,6 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<br/>
-
-### Back-End
-
 <img 
     align="left" 
     alt="CSS" 
@@ -74,10 +68,14 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" 
 />
-
-<br/>
-
-### DevOps & Tools
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 
 <img 
     align="left" 
