@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou estudante de ADS e estou me especializando em desenvolvimento full stack.  
+Sou estudante de ADS e estou me especializando em desenvolvimento back-end.  
 Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 <p align="left">
