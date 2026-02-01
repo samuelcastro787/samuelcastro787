@@ -100,10 +100,7 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 ---
 ## 📌 Projetos em Destaque
 
-- [Netflix Login](https://github.com/samuelcastro787/netflix-login)
-- [Controle Financeiro](https://github.com/samuelcastro787/controle-financeiro)
-- [Previsao do Tempo](https://github.com/samuelcastro787/weather)
-- [Jogo da Cobrinha](https://github.com/samuelcastro787/snake-game)
+- [Cadastramento de Funcionarios](https://github.com/samuelcastro787/Cadastramento-de-Funcionarios)
 
 ---
 
