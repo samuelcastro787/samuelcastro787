@@ -24,7 +24,7 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 ---
 
-## 🤖 Tech Stack
+## 🤖 Tecnologias
 
 <img 
     align="left" 
