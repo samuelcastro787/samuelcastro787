@@ -102,6 +102,7 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 - [Cadastramento de Funcionarios](https://github.com/samuelcastro787/Cadastramento-de-Funcionarios)
 - [Meu Portifolio](https://meu-portifolio-eight-woad.vercel.app/)
+- [Controle Financeiro](https://github.com/samuelcastro787/controle-financeiro/tree/main)
 
 ---
 
