@@ -54,24 +54,33 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="NodeJs" 
+    title="NodeJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSharp" 
+    title="CSharp"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="dotnet" 
+    title="dotnet"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="PostgrSql" 
+    title="PostgreSql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
