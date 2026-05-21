@@ -2,8 +2,9 @@
 
 **`Full-Stack Developer`**
 
-I'm ADS student specializing in full-stack development.
+I'm ADS student specializing in full-stack development. </br>
 Here I share my projects, studies, and progress as a developer.
+
 ---
 ## 🌐 Where to find me
 
