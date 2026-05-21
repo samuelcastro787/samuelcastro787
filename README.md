@@ -4,6 +4,8 @@
 
 I'm ADS student specializing in full-stack development.
 Here I share my projects, studies, and progress as a developer.
+---
+## 🌐 Where to find me
 
 <p align="left">
     <a href="mailto:samuelcastrosc787@gmail.com/">
