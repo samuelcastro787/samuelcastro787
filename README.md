@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=FF0000&background=F29FFF00&width=500&height=30&lines=Hi+my+name+is+Samuel!;I%27m+a+Full-Stack+developer;)](https://git.io/typing-svg)
 
-**`Desenvolvedor Full-Stack`**
+**`Full-Stack Developer`**
 
-Sou estudante de ADS e estou me especializando em desenvolvimento full-stack.  
-Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
+I'm ADS student specializing in full-stack development.
+Here I share my projects, studies, and progress as a developer.
 
 <p align="left">
     <a href="mailto:samuelcastrosc787@gmail.com/">
@@ -24,7 +24,7 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 ---
 
-## 🤖 Tecnologias
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -47,7 +47,7 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 <br/>
 
 ---
-## 📌 Projetos em Destaque
+## 📌 Projects
 
 - [Cadastramento de Funcionarios](https://github.com/samuelcastro787/Cadastramento-de-Funcionarios)
 - [Meu Portifolio](https://meu-portifolio-eight-woad.vercel.app/)
