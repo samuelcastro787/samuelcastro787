@@ -55,6 +55,15 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelcastro787&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcastro787&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
