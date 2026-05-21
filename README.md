@@ -3,7 +3,6 @@
 **`Full-Stack Developer`**
 
 I'm ADS student specializing in full-stack development.
-
 Here I share my projects, studies, and progress as a developer.
 
 <p align="left">
