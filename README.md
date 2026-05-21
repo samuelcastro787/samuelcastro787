@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=FF0000&background=F29FFF00&width=500&height=30&lines=Hi+my+name+is+Samuel!;I%27m+a+Full-Stack+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mona+sans&weight=600&size=30&duration=3000&pause=1000&color=FF0000&background=F29FFF00&width=500&height=30&lines=Hi+my+name+is+Samuel!;I%27m+a+Full-Stack+developer;)](https://git.io/typing-svg)
 
 **`Full-Stack Developer`**
 
