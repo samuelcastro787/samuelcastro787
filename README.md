@@ -114,6 +114,12 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 - [Controle Financeiro](https://github.com/samuelcastro787/controle-financeiro/tree/main)
 
 ---
+## Statistic
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/samuelcastro787/samuelcastro787/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/samuelcastro787/samuelcastro787/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 
 <picture align="center">
