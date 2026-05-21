@@ -45,7 +45,6 @@ Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 </div>
 
 <br/>
-<br/>
 
 ---
 ## 📌 Projetos em Destaque
