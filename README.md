@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mona+sans&weight=600&size=30&duration=3000&pause=1000&color=B22222&background=F29FFF00&width=500&height=50&lines=Hi,+my+name+is+Samuel+Castro!;I%27m+a+Full-Stack+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mona+sans&weight=600&size=30&duration=3000&pause=1000&color=B22222&background=F29FFF00&width=500&height=50&lines=Olá,+meu+nome+é+Samuel+Castro!;Sou+desenvolvedor+Full-Stack;)](https://git.io/typing-svg)
 
-**`Full-Stack Developer`**
+**`Desenvolvedor Full-Stack`**
 
-I'm ADS student specializing in full-stack development. </br>
-Here I share my projects, studies, and progress as a developer.
+Sou estudante de ADS, especializando-me em desenvolvimento full-stack. </br>
+Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 ---
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
     <a href="mailto:samuelcastrosc787@gmail.com/">
@@ -27,7 +27,7 @@ Here I share my projects, studies, and progress as a developer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Front-End
 
@@ -66,20 +66,12 @@ Here I share my projects, studies, and progress as a developer.
 <br/>
 
 ---
-## 📌 Projects
+## 📌 Projetos
 
 - [Cadastramento de Funcionarios](https://github.com/samuelcastro787/Cadastramento-de-Funcionarios)
 - [Meu Portifolio](https://meu-portifolio-eight-woad.vercel.app/)
-- [Controle Financeiro](https://github.com/samuelcastro787/controle-financeiro/tree/main)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelcastro787&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcastro787&layout=compact&theme=tokyonight" />
-</p>
+- [Controle Financeiro](https://controle-financeiro-bice-one.vercel.app/)
+- [Conversor de imagem para PDF](https://conversor-pdf-psi.vercel.app/)
 
 ---
 
