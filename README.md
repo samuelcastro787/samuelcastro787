@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mona+sans&weight=600&size=30&duration=3000&pause=1000&color=B22222&background=F29FFF00&width=500&height=50&lines=Olá,+meu+nome+é+Samuel+Castro!;Sou+desenvolvedor+Back-End;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mona+sans&weight=600&size=25&duration=3000&pause=1000&color=B22222&background=F29FFF00&width=500&height=50&lines=Olá,+meu+nome+é+Samuel+Castro!;Sou+desenvolvedor+Back-End;)](https://git.io/typing-svg)
 
 **`Desenvolvedor Back-End`**
 
