@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mona+sans&weight=600&size=30&duration=3000&pause=1000&color=B22222&background=F29FFF00&width=500&height=50&lines=Olá,+meu+nome+é+Samuel+Castro!;Sou+desenvolvedor+Full-Stack;)](https://git.io/typing-svg)
 
-**`Desenvolvedor Full-Stack`**
+**`Desenvolvedor Back-End`**
 
 Sou estudante de ADS, especializando-me em desenvolvimento full-stack. </br>
 Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
