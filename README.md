@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mona+sans&weight=600&size=30&duration=3000&pause=1000&color=B22222&background=F29FFF00&width=500&height=50&lines=Olá,+meu+nome+é+Samuel+Castro!;Sou+desenvolvedor+Full-Stack;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mona+sans&weight=600&size=30&duration=3000&pause=1000&color=B22222&background=F29FFF00&width=500&height=50&lines=Olá,+meu+nome+é+Samuel+Castro!;Sou+desenvolvedor+Back-End;)](https://git.io/typing-svg)
 
 **`Desenvolvedor Back-End`**
 
-Sou estudante de ADS, especializando-me em desenvolvimento full-stack. </br>
+Sou estudante de ADS, especializando-me em desenvolvimento back-end. </br>
 Aqui compartilho meus projetos, estudos e evolução como desenvolvedor.
 
 ---
